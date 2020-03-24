@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /researh/
+permalink: /research/
 ---
 
 We study cell biology in cancer cells.
