@@ -21,7 +21,7 @@
 title: Laboratory of Cancer Cell Biology and Genomics
 email: your-email@ewha.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Our Laboratory is located in the Life Sciences Department, College of Natural Sciences, 
+  Our Laboratory is located in the Department of Life Science, College of Natural Sciences, 
   Ewha Womans University, Seoul, Republic of Korea
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cellkmj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
