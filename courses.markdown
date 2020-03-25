@@ -4,5 +4,8 @@ title: Courses
 permalink: /courses/
 ---
 
-Cell Biology I (Spring 2020)
-============================
+General Biology 2020-1
+======================
+
+[Syllabus](http://eureka.ewha.ac.kr/eureka/cmmFileDownController.do?bizFileId=20200310000001709518&fileId=1)
+
