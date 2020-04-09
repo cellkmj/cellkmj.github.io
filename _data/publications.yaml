@@ -38,7 +38,7 @@
   journal: 'Dev Cell'
   year: '2015'
   pages: '34(3):323-37' 
-  notes: '\*(corresponding authors)'
+  notes: '(\*corresponding authors)'
 
 - authors: 'Lee D, Acharya S\*, **Kwon M**\*, Drane P, Guan Y, Adelmant G, Kalev P, Shah J, Pellman D, Marto JA, Chowdhury D'
   title: 'Dephosphorylation primes the recruitment of 53BP1 to double-strand DNA breaks'
