@@ -9,7 +9,11 @@
   journal: 'Nature'
   year: '2018'
   pages: '561(7724):551-555'
-  notes: '(\*co-first authors). Featured in: News and views in Nature (2018) 561(7724):467-468 “A core problem in nuclear assembly”, Previews in Dev Cell (2018) 47(3):265-266 “Rotten to the core: Why micronuclei rupture”, Research watch in Cancer Discovery (2018) 8(11):1347 “Defective nuclear envelope assembly may promote mitotic errors”'
+  notes: '(\*co-first authors)'
+  featured:
+    - 'News and views in Nature (2018) 561(7724):467-468 “A core problem in nuclear assembly”'
+    - 'Previews in Dev Cell (2018) 47(3):265-266 “Rotten to the core: Why micronuclei rupture”'
+    - 'Research watch in Cancer Discovery (2018) 8(11):1347 “Defective nuclear envelope assembly may promote mitotic errors”'
 
 - authors: 'Johnson WL, Xie KT, **Kwon M**, Liu S, Pellman D'
   title: 'How the genome folds, divides, lives, and dies'
@@ -72,7 +76,11 @@
   journal: 'Genes Dev'
   year: '2008'
   pages: '22(16):2189-203'
-  notes: 'Featured in: Minireview in Cell (2008) 134(4):572-575 "A tale of too many centrosomes", Preview in Cancer Cell (2008) 14(3):197-199 "Actin and Microtubules: Working Together to Control Spindle Polarity", Perspectives in Genes and Dev (2008) 22 (17):2291-6 "Multiple centrosomes: together they stand, divided they fall", Research highlights in Nature Reviews in Molecular Cell Biology (2008) 9:669 "Cancer biology: The counting game"'
+  featured:
+    - 'Minireview in Cell (2008) 134(4):572-575 "A tale of too many centrosomes"'
+    - 'Preview in Cancer Cell (2008) 14(3):197-199 "Actin and Microtubules: Working Together to Control Spindle Polarity"'
+    - 'Perspectives in Genes and Dev (2008) 22 (17):2291-6 "Multiple centrosomes: together they stand, divided they fall"'
+    - 'Research highlights in Nature Reviews in Molecular Cell Biology (2008) 9:669 "Cancer biology: The counting game"'
 
 - authors: '**Kwon M**, Scholey JM'
   title: 'Spindle mechanics and dynamics during mitosis in Drosophila'
