@@ -4,14 +4,13 @@ title: People
 permalink: /people/
 ---
 
-# Professor (Principal Investigator)
+## Professor (Principal Investigator)
 
-Mijung Kwon
+### Mijung Kwon
+
+## Post-Doctoral Fellows
 
 
-# Post-Doctoral Fellows
-
-
-# Graduate Students
+## Graduate Students
 
 
