@@ -6,6 +6,8 @@ permalink: /people/
 
 # Professor (Principal Investigator)
 
+Mijung Kwon
+
 
 # Post-Doctoral Fellows
 
