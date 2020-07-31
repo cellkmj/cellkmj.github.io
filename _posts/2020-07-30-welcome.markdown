@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to our lab!"
+date:   2020-07-30 23:00:00 -0400
+categories: update
+---
+Welcome to our lab home page - currently under construction.
