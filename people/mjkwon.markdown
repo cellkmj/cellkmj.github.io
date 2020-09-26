@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Mijung Kwon, Ph.D.
 permalink: /people/mjkwon/
+hide: true
 ---
-
-## Mijung Kwon, Ph.D.
 
 - B.S. Biological Science, Ewha Womans University, Seoul, Korea
 - M.S. Cell Biology,  Ewha Womans University, Seoul, Korea
@@ -13,7 +13,14 @@ permalink: /people/mjkwon/
 - Instructor, Harvard Medical School, Boston, MA
 - Staff Scientist, Howard Hughes Medical Institute (HHMI) and Dana-Farber Cancer Institute
 
-#### Contact:
+#### Honors
+
+- Honor Fellowship, Ewha Womans University, Seoul, Korea
+- Jastro-Shields Research Award, University of California, Davis
+- Postdoctoral Fellow Award, [Susan G. Komen Foundation](https://ww5.komen.org/)                           	
+- Special Fellow Award, [The Leukemia and Lymphoma Society](https://www.lls.org/who-we-are/research-history)
+
+#### Contact
 
 Department of Life Science\
 College of Natural Science\
