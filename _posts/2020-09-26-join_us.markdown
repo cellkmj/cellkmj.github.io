@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Joining our lab"
-date:   2020-09-26 23:00:00 -0400
+date:   2020-09-26 11:00:00 -0400
 categories: update
 ---
 We are hiring!
