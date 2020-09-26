@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /people/mjkwon
 ---
 
 ## Mijung Kwon, Ph.D.
