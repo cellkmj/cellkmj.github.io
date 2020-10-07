@@ -5,6 +5,8 @@ permalink: /people/mjkwon/
 hide: true
 ---
 
+#### Assistant Professor of Biology
+
 - B.S. Biological Science, Ewha Womans University, Seoul, Korea
 - M.S. Cell Biology,  Ewha Womans University, Seoul, Korea
 - Ph.D. Cell and Developmental Biology,  University of California, Davis
